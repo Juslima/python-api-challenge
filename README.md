@@ -1,7 +1,7 @@
 # python-api-challenge
 
 # Part 1: WeatherPy
-# Discussion about the linear relationship: Temperature vs. Latitude:
+# Temperature vs. Latitude:
 
 The linear regression plots show the relationship between temperature and latitude in the Northern Hemisphere and Southern Hemisphere.
 
